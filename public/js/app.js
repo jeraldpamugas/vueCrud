@@ -35791,8 +35791,8 @@ var routes = [{
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp2\htdocs\vueCrud\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp2\htdocs\vueCrud\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! C:\xampp2\htdocs\vuecrud\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp2\htdocs\vuecrud\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })

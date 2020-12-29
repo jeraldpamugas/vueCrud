@@ -2,6 +2,8 @@ import AllBooks from "./components/AllBooks.vue";
 import AddBook from "./components/AddBook.vue";
 import EditBook from "./components/EditBook.vue";
 
+import messageHome from "./components/message/index.vue";
+
 export const routes = [
     {
         name: "home",
@@ -17,5 +19,10 @@ export const routes = [
         name: "edit",
         path: "/edit/:id",
         component: EditBook
+    },
+    {
+        name: "messageHome",
+        path: "/",
+        component: messageHome
     }
 ];
